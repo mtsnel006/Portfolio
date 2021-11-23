@@ -9,4 +9,5 @@ This is where I will house my portfolio
 4. Argon dynamics
 5. Business development works
 6. Marketing and advertising
+7. Add a lot of backend skills
 
