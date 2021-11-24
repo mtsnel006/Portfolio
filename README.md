@@ -10,4 +10,5 @@ This is where I will house my portfolio
 5. Business development works
 6. Marketing and advertising
 7. Add a lot of backend skills
+8. Add news aggregators like this [one](https://socialmediaforlearning.com/curation-tools/aggregators/) , [this](https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/) and [this too](https://blog.hubspot.com/marketing/content-aggregators)
 
