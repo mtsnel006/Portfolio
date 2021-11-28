@@ -12,3 +12,12 @@ This is where I will house my portfolio
 7. Add a lot of backend skills
 8. Add news aggregators like this [one](https://socialmediaforlearning.com/curation-tools/aggregators/) , [this](https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/) and [this too](https://blog.hubspot.com/marketing/content-aggregators)
 
+
+
+## List of skills worth mentioning
+
+1. domain registration 
+2.hosting
+3.logo design 
+4. google my business
+5.Search engine optimization
