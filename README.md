@@ -26,3 +26,8 @@ This is where I will house my portfolio
 ## Mention what your courses have taught you
 
 1. Copyright things [etc](https://www.makeuseof.com/how-to-check-if-a-video-is-copyrighted/) 
+
+
+## Mention the work you have done on youtube
+
+1. [youtube academy](https://creatoracademy.youtube.com/page/home)
