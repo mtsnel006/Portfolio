@@ -31,3 +31,4 @@ This is where I will house my portfolio
 ## Mention the work you have done on youtube
 
 1. [youtube academy](https://creatoracademy.youtube.com/page/home)
+2. Be addicted to reading the terms and conditions of each media element that you have acquired for [free](Terms of use for UNAIDS web site, including copyright notices and privacy statement)
