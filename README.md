@@ -21,3 +21,8 @@ This is where I will house my portfolio
 3.logo design 
 4. google my business
 5.Search engine optimization
+
+
+## Mention what your courses have taught you
+
+1. Copyright things [etc](https://www.makeuseof.com/how-to-check-if-a-video-is-copyrighted/) 
