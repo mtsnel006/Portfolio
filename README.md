@@ -12,6 +12,7 @@ This is where I will house my portfolio
 7. Add a lot of backend skills
 8. Add news aggregators like this [one](https://socialmediaforlearning.com/curation-tools/aggregators/) , [this](https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/) and [this too](https://blog.hubspot.com/marketing/content-aggregators)
 9. Including a parallax scrolling [portfolio](https://www.youtube.com/watch?v=mgk_2d4lhm8)
+10. Some 3d modelling cool work [here ](https://uploadvr.com/masterpiece-studio-free-edition)
 
 
 ## List of skills worth mentioning
