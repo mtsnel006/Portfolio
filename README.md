@@ -14,6 +14,7 @@ This is where I will house my portfolio
 9. Including a parallax scrolling [portfolio](https://www.youtube.com/watch?v=mgk_2d4lhm8)
 10. Some 3d modelling cool work [here ](https://uploadvr.com/masterpiece-studio-free-edition)
 11. Make scrolly telling like [these](https://acled.github.io/US/)
+12. Mention the achievements that I have been afforded throughout my adult life
 
 
 ## List of skills worth mentioning
