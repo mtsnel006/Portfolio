@@ -15,6 +15,7 @@ This is where I will house my portfolio
 10. Some 3d modelling cool work [here ](https://uploadvr.com/masterpiece-studio-free-edition)
 11. Make scrolly telling like [these](https://acled.github.io/US/)
 12. Mention the achievements that I have been afforded throughout my adult life
+13. Check flouirsh twitter account about visualizing a year and do something about their template
 
 
 ## List of skills worth mentioning
