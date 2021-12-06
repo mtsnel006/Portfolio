@@ -17,11 +17,12 @@ This is where I will house my portfolio
 12. Mention the achievements that I have been afforded throughout my adult life
 13. Check flouirsh twitter account about visualizing a year and do something about their template
 14. EMphasize mapping as yuor main skillset
+15. Show the certifications of all the content production work that you have been involved in
 
 
 ## List of skills worth mentioning
 
-1. domain registration 
+1.Domain registration 
 2.hosting
 3.logo design 
 4. google my business
