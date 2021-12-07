@@ -18,6 +18,7 @@ This is where I will house my portfolio
 13. Check flouirsh twitter account about visualizing a year and do something about their template
 14. EMphasize mapping as yuor main skillset
 15. Show the certifications of all the content production work that you have been involved in
+16. Create an African Map with cities and let people click which country is that city - work from click that hood
 
 
 ## List of skills worth mentioning
