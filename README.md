@@ -20,6 +20,7 @@ This is where I will house my portfolio
 15. Show the certifications of all the content production work that you have been involved in
 16. Create an African Map with cities and let people click which country is that city - work from click that hood
 17. Make your own story iterations like [this one](https://tympanus.net/Development/StorytellingMap/)
+18. Get [templates](https://codepen.io/tag/one-page) 
 
 
 ## List of skills worth mentioning
